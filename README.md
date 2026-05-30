@@ -2,9 +2,7 @@ Clinical Trials AI Recruiter (MedMatch AI)
 Volunteer recruitment AI for clinical trials. Uses RAG (Retrieval-Augmented Generation) on trial-criteria PDFs + volunteer CSV to return fast eligibility counts, shortlists, and 2–3 sentence answers.
 
 🔗 Live
-Website (Landing): https://ishaan0709.github.io/Techvital_clinical_trials/
-AI App (Streamlit): https://ishaan000999-pb9qvwjtdda7wdeqctz4fd.streamlit.app/
-Dev locally: http://localhost:8501
+Website (Landing): coming soon
 ⚙️ Stack
 Streamlit • Python • LangChain • RAG • FAISS • OpenAI • PyMuPDF (fitz) • pandas
 
