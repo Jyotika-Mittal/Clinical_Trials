@@ -1,5 +1,5 @@
 Clinical Trials AI Recruiter (MedMatch AI)
-Volunteer recruitment AI for clinical trials. Uses RAG (Retrieval-Augmented Generation) on trial-criteria PDFs + volunteer CSV to return fast eligibility counts, shortlists, and 2–3 sentence answers.
+Volunteer recruitment AI for clinical trials. Uses RAG (Retrieval-Augmented Generation) on trial-criteria PDFs + volunteer CSV to return fast eligibility counts, shortlists, and 2–3 sentences answers.
 
 🔗 Live
 Website (Landing):"https://clinicaltrials-blue.vercel.app/"
